@@ -1,4 +1,4 @@
-# GitlabCI Tutorial
+# Simple-CI-CD
 
 This README provides step-by-step instructions on how to set up and run the project.
 
@@ -12,12 +12,7 @@ Before you begin, ensure you have the following prerequisites installed on your 
 
 ## Getting Started
 
-1. Clone the repository:
-
-    ```bash
-    git clone git@github.com:devopshobbies/gitlabci-tutorial.git
-    cd gitlabci-tutorial
-    ```
+1. Clone the repository
 
 2. Create a virtual environment (optional but recommended):
 
@@ -81,6 +76,4 @@ Before you begin, ensure you have the following prerequisites installed on your 
 - `gitlab-ci.yml` - CI/CD file using GitlabCI.
 - `db.sqlite3` - Default database SQLite, but you can change it.
 
-## Contributing
 
-If you would like to contribute to this project, please feel free to contribute.
